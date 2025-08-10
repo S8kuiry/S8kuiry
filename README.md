@@ -10,25 +10,31 @@
 
 ---
 
-## 🚀 Featured Projects
-### 🎨 Portfolio Website – Built with React + Framer Motion
-A developer-centric, beautifully animated portfolio with sections for projects, tech stack, experience, and contact. Fully responsive and powered by MagicUI.
 
-<p align="center">
-  <a href="https://portfolio-git-main-subharthys-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+## 🚀 My GitHub Projects
+
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 8px 0;">
+<a href="https://portfolio-git-main-subharthys-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Forever.com%20E-Commerce-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-
-### 🧩 QuickChat – Real-Time Chat App (MERN + Socket.IO)
-A full-featured real-time chat application with private messaging, media sharing, and online user status — built using MERN stack, Socket.IO, and Tailwind.
-
-<p align="center">
-  <a href="https://quickchat-client.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-QuickChat-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" />
+  
+  <a href="https://ecommerce-1-client.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Forever.com%20E-Commerce-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+
+  <a href="https://quick-ai-frontend-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://imagify-gk6d.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Project%203-32CD32?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/S8kuiry/Quickblog" target="_blank">
+    <img src="https://img.shields.io/badge/Project%204-FFA500?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
