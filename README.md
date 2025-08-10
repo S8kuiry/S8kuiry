@@ -44,8 +44,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S8kuiry&theme=midnight-purple&hide_border=true&border_radius=12" width="47%" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S8kuiry&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=S8kuiry&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=6" />
 </p>
 
 ---
