@@ -2,150 +2,97 @@
 <!--                    HERO SECTION                        -->
 <!-- ====================================================== -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,50:003366,100:00BFFF&height=180&section=header&text=Subharthy%20Kuiry&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C0000,50:8B0000,100:FF4500&height=200&section=header&text=SUBHARTHY%20KUIRY&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+%40+Adamas+University;Android+Developer+Intern+%40+Pawmax;Building+Autonomous+AI+%26+RAG+Pipelines;Full-Stack+%7C+Next.js+%7C+FastAPI+%7C+React+Native" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Subharthy;B.Tech+CSE+Student+%7C+Full-Stack+Developer;Python+%7C+React+%7C+MongoDB+%7C+Streamlit;Building+Ideas+Into+Useful+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<!-- Optional: Replace this URL with a cool tech/coding GIF you like, similar to the reference image -->
-<p align="center">
-  <img src="https://github.com/S8kuiry.png" width="150" style="border-radius: 50%; border: 3px solid #FF4500;" alt="Subharthy Kuiry" />
-</p>
-
-<p align="center">
-  Building ideas with code at the intersection of web development, data, & problem solving.
+  <i>Architecting intelligent systems, building cross-platform experiences, and turning complex problems into elegant software.</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/S8kuiry">
-    <img src="https://img.shields.io/badge/GitHub-S8kuiry-0D1117?style=for-the-badge&logo=github&logoColor=FF4500" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000B18?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-here">
+    <img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:subharthykuiry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-005580?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
   </a>
 </p>
 
----
+<br>
 
 <!-- ====================================================== -->
-<!--                    ABOUT ME TABLE                      -->
+<!--                    ABOUT & STATUS                      -->
 <!-- ====================================================== -->
 
-<h3 align="center">🕵️ About Me 🕵️</h3>
+### 💠 About Me
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+I am a 3rd-year **Computer Science & Engineering** student who bridges the gap between full-stack web architecture and artificial intelligence. I don't just write code; I focus on integrating LLMs, building semantic retrieval pipelines, and shipping production-ready mobile applications.
 
-<h4 align="center">🎯 Who I Am 🎯</h4>
-
-I'm a **3rd-year Computer Science & Engineering (B.Tech)** student passionate about turning complex ideas into meaningful software. 
-
-My interests sit at the intersection of:
-- 💻 Full-Stack Web Development
-- 🐍 Python & Data-Driven Applications
-- 🧩 Algorithmic Problem Solving
-- ☁️ Modern Cloud Technologies
-
-</td>
-
-<td width="50%" valign="top">
-
-<h4 align="center">🚀 What I Do 🚀</h4>
-
-I enjoy building practical solutions while continuously learning new technologies and scaling my developer toolkit.
-
-Currently focused on:
-- ⚡ Modern Web Architectures (Next.js)
-- 🧠 AI & Machine Learning Integration
-- 🐳 Containerization (Docker)
-- 🏗️ Building cleaner, scalable systems
-
-</td>
-</tr>
-</table>
+- 🎓 **Studying:** B.Tech CSE at Adamas University (Class of 2027)
+- 💼 **Currently:** Android Developer Intern at Pawmax, building features and automated notification systems for an active 50K+ user base.
+- 🧠 **Exploring:** RAG Pipelines, Federated Learning, and WebRTC.
 
 ---
 
 <!-- ====================================================== -->
-<!--                 JOURNEY & MISSION                      -->
+<!--                   FEATURED WORK                        -->
 <!-- ====================================================== -->
 
-<h3 align="center">⚡ My Developer Journey ⚡</h3>
+### 🚀 Featured Work & Engineering
 
-<p align="center">
-  <b>Learn</b> ➔ <b>Think</b> ➔ <b>Build</b> ➔ <b>Break</b> ➔ <b>Debug</b> ➔ <b>Improve</b> ➔ <b>Ship</b> 🚀
-</p>
+> **OmniMind — Autonomous AI Platform**
+> Architected a robust RAG pipeline using FastAPI, Pinecone, and Groq. Built an autonomous Gmail agent with a 3-tier decision engine and a real-time WebSocket dashboard.
+
+> **OrbitHire — AI-Powered Hiring**
+> Designed Orbit Score™, an ML ranking engine combining TF-IDF similarity with federated learning, deployed on a full-stack Next.js and PostgreSQL architecture.
+
+> **Inter-Meet — Virtual Collaboration**
+> Built a WebRTC-based platform with real-time collaborative code editing, live presence detection, and role-based dashboards.
+
+> **Pawmax — Production Mobile Engineering**
+> Shipped 10+ production screens for a React Native app. Engineered automated medical reminder systems and managed the release pipeline via Expo and Google Play Console.
+
+---
+
+<!-- ====================================================== -->
+<!--                 TECH ARSENAL SECTION                   -->
+<!-- ====================================================== -->
+
+### 🛠️ The Tech Arsenal
+
+**Languages & Core** <br>
+<img src="https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=00BFFF" alt="Python" />
+<img src="https://img.shields.io/badge/Java-001F3F?style=for-the-badge&logo=java&logoColor=00BFFF" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-001F3F?style=for-the-badge&logo=typescript&logoColor=00BFFF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Kotlin-001F3F?style=for-the-badge&logo=kotlin&logoColor=00BFFF" alt="Kotlin" />
+
+**Frontend & Mobile** <br>
+<img src="https://img.shields.io/badge/React.js-003366?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-003366?style=for-the-badge&logo=nextdotjs&logoColor=00BFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/React_Native-003366?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React Native" />
+<img src="https://img.shields.io/badge/Tailwind-003366?style=for-the-badge&logo=tailwindcss&logoColor=00BFFF" alt="Tailwind" />
+
+**Backend & Architecture** <br>
+<img src="https://img.shields.io/badge/FastAPI-004488?style=for-the-badge&logo=fastapi&logoColor=00BFFF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-004488?style=for-the-badge&logo=nodedotjs&logoColor=00BFFF" alt="Node" />
+<img src="https://img.shields.io/badge/Spring_Boot-004488?style=for-the-badge&logo=springboot&logoColor=00BFFF" alt="Spring" />
+
+**Databases, AI & Cloud** <br>
+<img src="https://img.shields.io/badge/PostgreSQL-0055AA?style=for-the-badge&logo=postgresql&logoColor=00BFFF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-0055AA?style=for-the-badge&logo=mongodb&logoColor=00BFFF" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Pinecone-0055AA?style=for-the-badge&logo=pinecone&logoColor=00BFFF" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Docker-0055AA?style=for-the-badge&logo=docker&logoColor=00BFFF" alt="Docker" />
 
 <br>
 
-<h3 align="center">🎯 My Mission 🎯</h3>
-
-<p align="center">
-  Learn. Build. Collaborate. Grow.<br>
-  <i>Turning ideas into working solutions, solving meaningful problems through technology, and continuously becoming a better developer.</i>
-</p>
-
----
-
-<!-- ====================================================== -->
-<!--                 TECH STACK TABLE                       -->
-<!-- ====================================================== -->
-
-<h3 align="center">🛠️ Technologies & Tools 🛠️</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <th align="center" width="25%">Category</th>
-    <th align="center" width="75%">Technologies</th>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ Tools & Deployment</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
-
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:8B0000,100:2C0000&height=100&section=footer" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:003366,100:000B18&height=100&section=footer" width="100%" alt="Footer" />
+</div>
