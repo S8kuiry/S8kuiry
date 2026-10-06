@@ -34,7 +34,7 @@
 
 ### 💠 About Me
 
-I am a **3rd-year Computer Science & Engineering** student at Adamas University[cite: 4] who bridges the gap between full-stack web architecture, native mobile engineering, and artificial intelligence.
+I am a **Final-year Computer Science & Engineering** student at Adamas University[cite: 4] who bridges the gap between full-stack web architecture, native mobile engineering, and artificial intelligence.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering @ Adamas University (2023–2027)[cite: 4]
 - 💼 **Current Role:** Android Developer Intern @ Pawmax — shipping features for 50K+ active users[cite: 4]
@@ -69,7 +69,7 @@ I am a **3rd-year Computer Science & Engineering** student at Adamas University[
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center"><i>Technologies I use to learn, build and experiment.</i></p>
 
-<table align="center" width="100%">
+<table align="center" width="100%" cellpadding="8">
   <thead>
     <tr>
       <th align="center" width="25%">Category</th>
@@ -78,69 +78,68 @@ I am a **3rd-year Computer Science & Engineering** student at Adamas University[
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>💻 Languages</b></td>
-      <td align="center">
+      <td align="center" valign="middle"><b>💻 Languages</b></td>
+      <td align="center" valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,kotlin" alt="Languages" />
+          <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,kotlin" height="40" alt="Languages" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🎨 Frontend & Mobile</b></td>
-      <td align="center">
+      <td align="center" valign="middle"><b>🎨 Frontend & Mobile</b></td>
+      <td align="center" valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+          <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="40" alt="Frontend" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center"><b>⚙️ Backend</b></td>
-      <td align="center">
+      <td align="center" valign="middle"><b>⚙️ Backend</b></td>
+      <td align="center" valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" alt="Backend" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" height="40" alt="Backend" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🤖 AI / ML / Data</b></td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/Pinecone-111111?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-        <img src="https://img.shields.io/badge/Groq-F34B21?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-        <img src="https://img.shields.io/badge/RAG_Pipelines-008080?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-        <img src="https://img.shields.io/badge/Federated_Learning-4B0082?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Federated Learning" />
+      <td align="center" valign="middle"><b>🤖 AI / ML / Data</b></td>
+      <td align="center" valign="middle">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Pinecone-111111?style=for-the-badge&logo=pinecone&logoColor=white" height="28" alt="Pinecone" />
+        <img src="https://img.shields.io/badge/Groq-F34B21?style=for-the-badge&logo=groq&logoColor=white" height="28" alt="Groq" />
+        <img src="https://img.shields.io/badge/RAG_Pipelines-008080?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="RAG" />
+        <img src="https://img.shields.io/badge/Federated_Learning-4B0082?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="Federated Learning" />
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🗄️ Databases</b></td>
-      <td align="center">
+      <td align="center" valign="middle"><b>🗄️ Databases</b></td>
+      <td align="center" valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" alt="Databases" />
+          <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" height="40" alt="Databases" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center"><b>☁️ Cloud & Deployment</b></td>
-      <td align="center">
+      <td align="center" valign="middle"><b>☁️ Cloud & Deployment</b></td>
+      <td align="center" valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vercel,docker,gcp" alt="Cloud" />
+          <img src="https://skillicons.dev/icons?i=vercel,docker,gcp" height="40" alt="Cloud" />
         </a>
-        <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+        <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="28" alt="Render" />
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🛠️ DevOps & Tools</b></td>
-      <td align="center">
+      <td align="center" valign="middle"><b>🛠️ DevOps & Tools</b></td>
+      <td align="center" valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,linux,postman" alt="DevOps" />
+          <img src="https://skillicons.dev/icons?i=git,github,linux,postman" height="40" alt="DevOps" />
         </a>
-        <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-        <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Console" />
+        <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo" />
+        <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="28" alt="Google Play Console" />
       </td>
     </tr>
   </tbody>
 </table>
-
 <br>
 
 <div align="center">
